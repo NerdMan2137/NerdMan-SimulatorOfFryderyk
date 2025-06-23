@@ -7,7 +7,7 @@ All games are created by me as part of my learning journey and portfolio develop
 ---
 ## 📑 Table of Contents
 
-- [SimulatorOfFryderykI](#)
+- [SimulatorOfFryderykI](#-simulatoroffryderyk-i)
 
 ---
 ### 🐻 SimulatorOfFryderyk I
