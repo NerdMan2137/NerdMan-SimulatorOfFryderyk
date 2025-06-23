@@ -5,7 +5,11 @@ This repository contains the full saga of the **SimulatorOfFryderyk** game serie
 All games are created by me as part of my learning journey and portfolio development in programming and IT.
 
 ---
+## 📑 Table of Contents
 
+- [SimulatorOfFryderykI](#)
+
+---
 ### 🐻 SimulatorOfFryderyk I
 
 A fan-made 2D game created in Godot. Your task is to help Freddy escape from the place he's trapped in.  
