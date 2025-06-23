@@ -5,7 +5,7 @@ This repository contains the full saga of the **SimulatorOfFryderyk** game serie
 All games are created by me as part of my learning journey and portfolio development in programming and IT.
 
 ##
-# 📑 Table of Contents
+## 📑 Table of Contents
 
 - [SimulatorOfFryderykI](#-simulatoroffryderyk-i)
 
