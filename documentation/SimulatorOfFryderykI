@@ -1,1 +1,18 @@
+SimulatorOfFryderykI is a 2D game created in Godot.
 
+### How to install
+
+**Linux:**
+
+1. Go to Releases, choose the version you want, and download the file with "LINUX" in its name.
+2. Add executable permission:
+   `chmod +x path/to/file`
+3. Run the file:
+   `./path/to/file`
+   or double-click the icon.
+
+**Windows:**
+
+1. Go to Releases, choose the version you want, and download the file with "WINDOWS" in its name.
+2. If Windows Defender blocks/removes it, add an exception and choose "Run anyway".
+3. Open the file normally.
