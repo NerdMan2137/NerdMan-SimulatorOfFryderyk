@@ -15,12 +15,6 @@ All games are created by me as part of my learning journey and portfolio develop
 A fan-made 2D game created in Godot. Your task is to help Freddy escape from the place he's trapped in.  
 This project was made for fun and to learn the basics of 2D game development.
 
-## Trailer
-
-[![See on YouTube]([https://img.youtube.com/vi/8oz9XR2TMyo/0.jpg](https://i.ytimg.com/an_webp/8oz9XR2TMyo/mqdefault_6s.webp?du=3000&sqp=CO6BisMG&rs=AOn4CLDFWD7O6NFDH_1NSSnFJcxKqkG1fg))](https://www.youtube.com/watch?v=8oz9XR2TMyo)
-
-
-
 
 #### Credits
 
